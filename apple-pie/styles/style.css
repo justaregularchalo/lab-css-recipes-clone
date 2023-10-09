@@ -23,9 +23,67 @@ body {
 /* STYLES */
 /* Write your CSS below */
 
+#cabecera {
+text-align: center;
+color: white;
+font-size: xx-large;
+background-size: 100%;
+padding: 200px 300px 200px 300px;
+background-image:url(/apple-pie/images/apple-pie.jpg);
 
-main header {
-padding: 28px; ;
+}
+
+#cuerpo-texto {
+  text-align: justify ;
+  margin: 5% ;
+  padding: 5%;
+  font-size: medium;
+}
+
+#stats {
+
+  padding: 5%
 
 
+
+}
+#ingredientes{
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#lista-ingredientes {
+margin-top: 50px;  
+margin-left: 50px;
+
+}
+
+
+#cook  {
+
+  padding: 10%
+
+}
+#enumeración1 {
+
+padding-bottom: 20px;
+}
+
+#directions {
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top:  20px;
+  margin-left: 50px ;
+}
+
+#instrucciones {
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top:  20px;
+  margin-left: 20px;
+}
+
+ol {
+text-align: justify;  
+margin: 50px;
+list-style-type: decimal;
 }
